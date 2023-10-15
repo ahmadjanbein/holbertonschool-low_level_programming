@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - A program that prints the size of various computer types
+ * main - Entry point
+ * Description: using sizeof to print the  size of varius  types
  * Return 0 (Success)
 */
 int main(void)
