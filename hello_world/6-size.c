@@ -2,7 +2,9 @@
 
 /**
  * main - Entry point
+ *
  * Description: using sizeof to print the  size of varius  types
+ *
  * Return 0 (Success)
 */
 int main(void)
